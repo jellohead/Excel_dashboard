@@ -1,0 +1,8 @@
+[project]
+name = "Excel_dashboard"
+version = "0.1.0"
+description = "Building and Excel based dashboard for survey data visualization"
+authors = [{ name = "Pat" }]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
